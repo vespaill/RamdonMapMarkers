@@ -1,4 +1,4 @@
-#### Goal
+#### Goals
 
 -   Get more familiar with TypeScript classes.
 -   Understand how to use TypeScript Interfaces effectively to enable more code re-use.
