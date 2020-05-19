@@ -8,7 +8,7 @@ export class Company implements Mappable {
         lat: number;
         lng: number;
     };
-    color:  = "red";
+    color: string = "red";
 
     constructor() {
         this.name = faker.company.companyName();
@@ -25,5 +25,4 @@ export class Company implements Mappable {
         <h3>Catchphrase: ${this.catchPhrase}</h3>
         </div>`;
     }
-
 }
